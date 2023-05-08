@@ -35,13 +35,9 @@ header{
 	padding: 25px 8%;
 	transition: .3s;
 }
-.logo{
-	color: var(--greeny);
-	font-size: var(--main-font);
-	font-weight: 600;
-	line-height: 0.8;
-	font-family: 'Montez', cursive;
-}
+.logo {
+	max-width: 100px;
+  }
 #menu-icon{
 	font-size: 38px;
 	color: var(--text-color);
